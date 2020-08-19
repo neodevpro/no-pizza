@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-19
 #
-# Number of blocked domains:  118176
+# Number of blocked domains:  118180
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -31712,6 +31712,8 @@
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
 0.0.0.0  device-metrics-.amazon.com
+0.0.0.0  device-metrics-us-2.amazon.com
+0.0.0.0  device-metrics-us.amazon.com
 0.0.0.0  device.4seeresults.com
 0.0.0.0  device.maxmind.com
 0.0.0.0  device9.com
@@ -79024,6 +79026,7 @@
 0.0.0.0  resolidarisons.website
 0.0.0.0  resolutekey.com
 0.0.0.0  resolve.gimbal.com
+0.0.0.0  resolver.gslb.mi-idc.com
 0.0.0.0  resolvethem.com
 0.0.0.0  resolvingserver.com
 0.0.0.0  reson8.com
@@ -98425,6 +98428,7 @@
 0.0.0.0  vidstat.taboola.com
 0.0.0.0  vidstatb.taboola.com
 0.0.0.0  vidtech.cbsinteractive.com
+0.0.0.0  vidto.me
 0.0.0.0  vidto.se
 0.0.0.0  vidtod.me
 0.0.0.0  vidtodo.pro
