@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2020-08-20
+# Last update: 2020-08-21
 #
-# Number of blocked domains:  117161
+# Number of blocked domains:  117159
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -31064,8 +31064,6 @@
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
 0.0.0.0  device-metrics-.amazon.com
-0.0.0.0  device-metrics-us-2.amazon.com
-0.0.0.0  device-metrics-us.amazon.com
 0.0.0.0  device.4seeresults.com
 0.0.0.0  device.maxmind.com
 0.0.0.0  device9.com
@@ -36893,6 +36891,7 @@
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
+0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -71008,7 +71007,6 @@
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.sborscweuu.cn
 0.0.0.0  pc.tunnel-vision.info
-0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.yingshi.tcclick.1kxun.mobi
 0.0.0.0  pc.ziyuewentao.com
