@@ -35,7 +35,8 @@ jobs:
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host_dnsmasq.conf
         
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    - name: Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.4.1
       with:
            commit_message: Auto Update
            branch: master
