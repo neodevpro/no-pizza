@@ -8,7 +8,7 @@
 #
 # Last update: 2021-02-02
 #
-# Number of blocked domains:  117334
+# Number of blocked domains:  117344
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -15263,6 +15263,7 @@
 0.0.0.0  appcloud2.zhihu.com
 0.0.0.0  appconfig.cmgdigital.com
 0.0.0.0  appconsent.io
+0.0.0.0  appcpa.co
 0.0.0.0  appcpa.net
 0.0.0.0  appcpi.net
 0.0.0.0  appdatum.com
@@ -17700,7 +17701,6 @@
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
-0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -46284,7 +46284,6 @@
 0.0.0.0  ibza.romsenergy.com
 0.0.0.0  ic-live.com
 0.0.0.0  ic.aliyune.xyz
-0.0.0.0  ic.ksosoft.com
 0.0.0.0  ic.snssdk.com
 0.0.0.0  ic.tynt.com
 0.0.0.0  ic.wps.cn
@@ -64578,7 +64577,6 @@
 0.0.0.0  notify.rocks
 0.0.0.0  notify.solutions
 0.0.0.0  notify.support
-0.0.0.0  notify.wps.cn
 0.0.0.0  notify1.brucelead.com
 0.0.0.0  notifyday.com
 0.0.0.0  notifyon.com
@@ -68548,6 +68546,7 @@
 0.0.0.0  pailridarm.com
 0.0.0.0  paime.com
 0.0.0.0  paimgcdn-feed.baidu.com
+0.0.0.0  paimgcdn.baidu.com
 0.0.0.0  pain-relief.1.p2l.info
 0.0.0.0  paincake.yoll.net
 0.0.0.0  painolympics.info
@@ -70511,6 +70510,7 @@
 0.0.0.0  pixfuture2-d.openx.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixon.ads-pixiv.net
 0.0.0.0  pixxur.com
@@ -75101,6 +75101,7 @@
 0.0.0.0  ratilis.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
+0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratioboom.ru
@@ -88157,6 +88158,9 @@
 0.0.0.0  tencent.xn--io0a7i
 0.0.0.0  tend-new.com
 0.0.0.0  tend.io
+0.0.0.0  tendata.cn
+0.0.0.0  tendata.com
+0.0.0.0  tendata.net
 0.0.0.0  tendatta.com
 0.0.0.0  tendcloud.cn
 0.0.0.0  tendcloud.com
@@ -88260,6 +88264,7 @@
 0.0.0.0  test.ad.cmvideo.cn
 0.0.0.0  test.ad.xiaomi.com
 0.0.0.0  test.adsp.xunlei.com
+0.0.0.0  test.api.xlmc.sandai.net
 0.0.0.0  test.ark.letv.com
 0.0.0.0  test.besstidniki.ru
 0.0.0.0  test.coremetrics.com
@@ -100728,6 +100733,7 @@
 0.0.0.0  www.apparel-offer.com
 0.0.0.0  www.apparelncs.com
 0.0.0.0  www.appcaptcha.com
+0.0.0.0  www.appcpa.co
 0.0.0.0  www.appcpa.net
 0.0.0.0  www.appcpi.net
 0.0.0.0  www.appdriver.cn
@@ -110783,6 +110789,7 @@
 0.0.0.0  www.talkingdata.cn
 0.0.0.0  www.talkingdata.com
 0.0.0.0  www.talkingdata.com.cn
+0.0.0.0  www.talkingdata.net
 0.0.0.0  www.talkinggame.com
 0.0.0.0  www.talkingnews.net
 0.0.0.0  www.talksinthecity.pl
@@ -110883,6 +110890,9 @@
 0.0.0.0  www.temperaturnik.com
 0.0.0.0  www.tempogody.com
 0.0.0.0  www.temporary.nsx.pl
+0.0.0.0  www.tendata.cn
+0.0.0.0  www.tendata.com
+0.0.0.0  www.tendata.net
 0.0.0.0  www.tendcloud.cn
 0.0.0.0  www.tendcloud.com
 0.0.0.0  www.tenddata.cn
