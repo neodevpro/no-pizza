@@ -8,7 +8,7 @@
 #
 # Last update: 2021-03-18
 #
-# Number of blocked domains:  126143
+# Number of blocked domains:  126295
 #
 #=====================================
 0.0.0.0  0.1mono.biz
@@ -267,7 +267,6 @@
 0.0.0.0  0b8cc331813049912.temporary.link
 0.0.0.0  0b9d84d93f1b.com
 0.0.0.0  0bc.top
-0.0.0.0  0bfn6.redirectvoluum.com
 0.0.0.0  0byv9mgbn0.com
 0.0.0.0  0ca0c1f060.com
 0.0.0.0  0cf40a2064ce2.com
@@ -5333,6 +5332,7 @@
 0.0.0.0  abtao.wang
 0.0.0.0  abtasty.com
 0.0.0.0  abtasty.net
+0.0.0.0  abtauthprd.samsungcloudsolution.com
 0.0.0.0  abtest-ch.snssdk.com
 0.0.0.0  abtest.alibaba.com
 0.0.0.0  abtest.mistat.intl.xiaomi.com
@@ -5575,6 +5575,7 @@
 0.0.0.0  acptkgp.com
 0.0.0.0  acq.io
 0.0.0.0  acquireattention.com
+0.0.0.0  acr0.samsungcloudsolution.com
 0.0.0.0  acrabakasaka.com
 0.0.0.0  acrdb.alphonso.tv
 0.0.0.0  acrh.be
@@ -9249,6 +9250,7 @@
 0.0.0.0  ads.kozmetika-bg.com
 0.0.0.0  ads.krawall.de
 0.0.0.0  ads.ksl.com
+0.0.0.0  ads.kukku.com
 0.0.0.0  ads.kure.tv
 0.0.0.0  ads.kyalon.net
 0.0.0.0  ads.lamchame.vn
@@ -14210,6 +14212,7 @@
 0.0.0.0  analytics.salesanalytics.io
 0.0.0.0  analytics.salmonads.com
 0.0.0.0  analytics.samdd.me
+0.0.0.0  analytics.samsungknox.com
 0.0.0.0  analytics.sanoma.fi
 0.0.0.0  analytics.schoolwires.com
 0.0.0.0  analytics.seattleclouds.com
@@ -15145,6 +15148,7 @@
 0.0.0.0  api.cazamba.com
 0.0.0.0  api.cdnbye.com
 0.0.0.0  api.chartbeat.com
+0.0.0.0  api.chat.xiaomi.net
 0.0.0.0  api.cheatsheet.me
 0.0.0.0  api.cho-ro.club
 0.0.0.0  api.circularhub.com
@@ -15156,6 +15160,7 @@
 0.0.0.0  api.coin-hive.com
 0.0.0.0  api.coinhive.com
 0.0.0.0  api.collect.data.intl.miui.com
+0.0.0.0  api.comm.miui.com
 0.0.0.0  api.company-target.com
 0.0.0.0  api.conduit.com
 0.0.0.0  api.config.sentinel.mob.com
@@ -15487,6 +15492,7 @@
 0.0.0.0  api.viglink.com
 0.0.0.0  api.vigo.ru
 0.0.0.0  api.vineapp.com
+0.0.0.0  api.vip.miui.com
 0.0.0.0  api.voiceads.cn
 0.0.0.0  api.vungle.akadns.net
 0.0.0.0  api.vungle.com
@@ -15502,6 +15508,7 @@
 0.0.0.0  api.wootric.com.herokudns.com
 0.0.0.0  api.wsq.umeng.com
 0.0.0.0  api.xiaohuxi.cn
+0.0.0.0  api.xiaomi.com
 0.0.0.0  api.xk.miui.com
 0.0.0.0  api.y.igexin.com
 0.0.0.0  api.yieldlove-ad-serving.net
@@ -15795,6 +15802,7 @@
 0.0.0.0  app.bugreplay.com
 0.0.0.0  app.business.westernunion.com
 0.0.0.0  app.cdn.youquqp.com
+0.0.0.0  app.chat.xiaomi.net
 0.0.0.0  app.cision.com
 0.0.0.0  app.clickmobi.cn
 0.0.0.0  app.cobrowser.com
@@ -15837,6 +15845,7 @@
 0.0.0.0  app.matheranalytics.com
 0.0.0.0  app.medyanetads.com
 0.0.0.0  app.meltwater.com
+0.0.0.0  app.migc.xiaomi.com
 0.0.0.0  app.moji001.com
 0.0.0.0  app.monetizze.com.br
 0.0.0.0  app.monetrack.com
@@ -16141,6 +16150,8 @@
 0.0.0.0  appsrv1.madserving.com
 0.0.0.0  appsrv4.madserving.com
 0.0.0.0  appstoore.online
+0.0.0.0  appstore.cdn.pandora.xiaomi.com
+0.0.0.0  appstore.pandora.xiaomi.com
 0.0.0.0  appstorepost.com
 0.0.0.0  appstreets.com
 0.0.0.0  appsupdate.sinaapp.com
@@ -16852,6 +16863,7 @@
 0.0.0.0  assigned.cn
 0.0.0.0  assignedlikecrawford.com
 0.0.0.0  assionwreckl.top
+0.0.0.0  assistant.pandora.xiaomi.com
 0.0.0.0  assistjs.skimresources.com
 0.0.0.0  assiumyikg.club
 0.0.0.0  assoc-amazon.ca
@@ -17543,6 +17555,7 @@
 0.0.0.0  awstaticdn.net
 0.0.0.0  awstrack.me
 0.0.0.0  awsurveys.com
+0.0.0.0  awsusor0-cdn.fds-ssl.api.xiaomi.com
 0.0.0.0  awsync.yandex.ru
 0.0.0.0  awtks.com
 0.0.0.0  awtvnrgwxletd.com
@@ -17618,6 +17631,7 @@
 0.0.0.0  az27.pl
 0.0.0.0  az361816.vo.msecnd.net
 0.0.0.0  az416426.vo.msecnd.net
+0.0.0.0  az43064.vo.msecnd.net
 0.0.0.0  az512334.vo.msecnd.net
 0.0.0.0  az693360.vo.msecnd.net
 0.0.0.0  az708531.vo.msecnd.net
@@ -17705,7 +17719,6 @@
 0.0.0.0  b.atas.io
 0.0.0.0  b.babylon.com
 0.0.0.0  b.baiy.net
-0.0.0.0  b.bdstatic.com
 0.0.0.0  b.bedop.com
 0.0.0.0  b.books555.com
 0.0.0.0  b.bshare.cn
@@ -17753,6 +17766,7 @@
 0.0.0.0  b.monetate.net
 0.0.0.0  b.myspace.com
 0.0.0.0  b.ndtzx.com
+0.0.0.0  b.netcheck.gallery.pandora.xiaomi.com
 0.0.0.0  b.nevadaprivateoffice.com
 0.0.0.0  b.nude-moon.xyz
 0.0.0.0  b.nujq0.cn
@@ -18400,7 +18414,6 @@
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
-0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.de
 0.0.0.0  bannerads.zwire.com
@@ -18884,6 +18897,7 @@
 0.0.0.0  bbom2b434493.com
 0.0.0.0  bbreakt88.z19.web.core.windows.net
 0.0.0.0  bbs.bjchun.com
+0.0.0.0  bbs.game.xiaomi.com
 0.0.0.0  bbs.search.nkwwnx.com
 0.0.0.0  bbs.ws
 0.0.0.0  bbs.youzu.com
@@ -19144,6 +19158,7 @@
 0.0.0.0  be.adserver.yahoo.com
 0.0.0.0  be.sitestat.com
 0.0.0.0  be.sponsorpay.com
+0.0.0.0  be01.hh.xiaomi.com
 0.0.0.0  be2anywhere.com
 0.0.0.0  bea4.v.fwmrm.net
 0.0.0.0  beabsolom.com
@@ -19472,6 +19487,7 @@
 0.0.0.0  benrie.stream
 0.0.0.0  bensezhiye.com
 0.0.0.0  bensonnsns.com
+0.0.0.0  benteng.ad.xiaomi.com
 0.0.0.0  bentengcn.com
 0.0.0.0  benthose.com
 0.0.0.0  bento.agoda.com
@@ -19850,6 +19866,7 @@
 0.0.0.0  bglog.bitauto.com
 0.0.0.0  bgmtracker.com
 0.0.0.0  bgn2zqlce1eiya.icu
+0.0.0.0  bgp.fe01.c3.xiaomi.com
 0.0.0.0  bgpng.me
 0.0.0.0  bgrel.bonedmilfs.com
 0.0.0.0  bgrndi.com
@@ -20418,6 +20435,7 @@
 0.0.0.0  bjzywuxian.com
 0.0.0.0  bk.goodline.info
 0.0.0.0  bk.r-ad.ne.jp
+0.0.0.0  bk01.hh.xiaomi.com
 0.0.0.0  bk9gun.vpser.net
 0.0.0.0  bkcdn.imonomy.com
 0.0.0.0  bkcommdata.v.qq.com
@@ -20596,6 +20614,7 @@
 0.0.0.0  blog.sidmach.com
 0.0.0.0  blog.takbelit.com
 0.0.0.0  blog.with2.net
+0.0.0.0  blog.xiaomi.com
 0.0.0.0  blog104.com
 0.0.0.0  blogad01.myweb.hinet.net
 0.0.0.0  blogad02.myweb.hinet.net
@@ -20945,6 +20964,7 @@
 0.0.0.0  boldride.us.intellitxt.com
 0.0.0.0  boldwin-d.openx.net
 0.0.0.0  bole.asia
+0.0.0.0  bole.shangshufang.ksosoft.com
 0.0.0.0  bolek69.pl
 0.0.0.0  bolili.info
 0.0.0.0  bolimen.top
@@ -22428,6 +22448,7 @@
 0.0.0.0  c.hk.msn.com
 0.0.0.0  c.holmesmind.com
 0.0.0.0  c.iche88.cn
+0.0.0.0  c.id.mi.com
 0.0.0.0  c.id.msn.com
 0.0.0.0  c.idasui.cn
 0.0.0.0  c.ie.msn.com
@@ -24048,6 +24069,7 @@
 0.0.0.0  cdn.extreme3d.games
 0.0.0.0  cdn.eyewonder.com
 0.0.0.0  cdn.fastclick.net
+0.0.0.0  cdn.fds-ssl.api.xiaomi.com
 0.0.0.0  cdn.firstimpression.io
 0.0.0.0  cdn.firstlook.com
 0.0.0.0  cdn.fivecdm.com
@@ -26434,6 +26456,7 @@
 0.0.0.0  clnk.me
 0.0.0.0  clnyonxgsvov.com
 0.0.0.0  cloakroomobsceneredress.com
+0.0.0.0  clock.ad.xiaomi.com
 0.0.0.0  clockdisplaystoring.com
 0.0.0.0  clockskew.alphonso.tv
 0.0.0.0  clod.pw
@@ -26793,6 +26816,7 @@
 0.0.0.0  cnbc.com-article906773.us
 0.0.0.0  cnbnews.com
 0.0.0.0  cnbole.net
+0.0.0.0  cnc.fe01.lg.xiaomi.com
 0.0.0.0  cncy8.com
 0.0.0.0  cndaizi.com
 0.0.0.0  cndhit.xyz
@@ -27798,6 +27822,7 @@
 0.0.0.0  contact-tracing-app.site
 0.0.0.0  contact.marathon-sports-ec.com
 0.0.0.0  contactaolhelp.com
+0.0.0.0  contactapi.micloud.xiaomi.net
 0.0.0.0  contactforms.53.com
 0.0.0.0  contactmonkey.com
 0.0.0.0  contactmusic.uk.intellitxt.com
@@ -27966,6 +27991,7 @@
 0.0.0.0  controller.4seeresults.com
 0.0.0.0  controller.duokanbox.com
 0.0.0.0  controller.foreseeresults.com
+0.0.0.0  controller.intl.xiaomi.com
 0.0.0.0  controller2.foreseeresults.com
 0.0.0.0  controlsecurity.net
 0.0.0.0  controlsgc.prisacom.com
@@ -28136,6 +28162,7 @@
 0.0.0.0  coordinatedbedroom.com
 0.0.0.0  coordinatedcoat.com
 0.0.0.0  coordinatedcub.com
+0.0.0.0  coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0  coordino.com
 0.0.0.0  coostack.com
 0.0.0.0  coostuni.com
@@ -29493,6 +29520,8 @@
 0.0.0.0  ctasnet.com
 0.0.0.0  ctbdev.net
 0.0.0.0  ctbike.pl
+0.0.0.0  ctc.fe01.c3.xiaomi.com
+0.0.0.0  ctc.fe02.c3.xiaomi.com
 0.0.0.0  ctc.weather.com.cn
 0.0.0.0  ctcautobody.com
 0.0.0.0  ctdhylltfighs.com
@@ -30076,6 +30105,7 @@
 0.0.0.0  d.wiyun.com
 0.0.0.0  d.wuylp.com
 0.0.0.0  d.xaoyo.com
+0.0.0.0  d.xiaomi.com
 0.0.0.0  d.xingshangnet.com
 0.0.0.0  d.xinshipu.com
 0.0.0.0  d.xitongtiandi.net
@@ -30154,6 +30184,7 @@
 0.0.0.0  d169bbxks24g2u.cloudfront.net
 0.0.0.0  d16b4.8ox.cn
 0.0.0.0  d16fk4ms6rqz1v.cloudfront.net
+0.0.0.0  d179kwmlpc4o47.cloudfront.net
 0.0.0.0  d17m68fovwmgxj.cloudfront.net
 0.0.0.0  d188elxamt3utn.cloudfront.net
 0.0.0.0  d18g6t7whf8ejf.cloudfront.net
@@ -30235,6 +30266,7 @@
 0.0.0.0  d1nrc70vcbb0d6.cloudfront.net
 0.0.0.0  d1nx2jii03b4ju.cloudfront.net
 0.0.0.0  d1ogtekyfob10l.cloudfront.net
+0.0.0.0  d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0  d1p3zboe6tz3yy.cloudfront.net
 0.0.0.0  d1p7elpjrt6qav.cloudfront.net
 0.0.0.0  d1piupybsgr6dr.cloudfront.net
@@ -30418,6 +30450,7 @@
 0.0.0.0  d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0  d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0  d2tkdzior84vck.cloudfront.net
+0.0.0.0  d2tnx644ijgq6i.cloudfront.net
 0.0.0.0  d2u1npnnqecmpq.cloudfront.net
 0.0.0.0  d2uap9jskdzp2.cloudfront.net
 0.0.0.0  d2uepos3ef6db0.cloudfront.net
@@ -30546,6 +30579,7 @@
 0.0.0.0  d3m4hp4bp4w996.cloudfront.net
 0.0.0.0  d3m6sept6cnil5.cloudfront.net
 0.0.0.0  d3m9mgvwtsfllj.cloudfront.net
+0.0.0.0  d3mjsomixevyw7.cloudfront.net
 0.0.0.0  d3mr7y154d2qg5.cloudfront.net
 0.0.0.0  d3mshiiq22wqhz.cloudfront.net
 0.0.0.0  d3mskfhorhi2fb.cloudfront.net
@@ -31022,6 +31056,7 @@
 0.0.0.0  data-failover.eroadvertising.com
 0.0.0.0  data-id.ads.oppomobile.com
 0.0.0.0  data-location.enhance.co
+0.0.0.0  data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 0.0.0.0  data-news.cdn.cootekservice.com
 0.0.0.0  data-optout-service.uca.cloud.unity3d.com
 0.0.0.0  data-pic.cdn.cootekservice.com
@@ -31064,6 +31099,7 @@
 0.0.0.0  data.eroadvertising.com
 0.0.0.0  data.flurry.com
 0.0.0.0  data.fnexpress.cn
+0.0.0.0  data.game.xiaomi.com
 0.0.0.0  data.glamour.ru
 0.0.0.0  data.goertz.de
 0.0.0.0  data.gosquared.com
@@ -37739,6 +37775,7 @@
 0.0.0.0  etl-xlmc-ssl.xunlei.com
 0.0.0.0  etl.xlmc.sandai.net
 0.0.0.0  etl.xlmc.sec.miui.com
+0.0.0.0  etl.xlmc.sec.miui.comm
 0.0.0.0  etlcrfkkfl.com
 0.0.0.0  etlherdelta.com
 0.0.0.0  etlherzero.com
@@ -38597,6 +38634,7 @@
 0.0.0.0  f07220faf8.com
 0.0.0.0  f09vhflf10.com
 0.0.0.0  f1.06ps.com
+0.0.0.0  f1.g.mi.com
 0.0.0.0  f1.ichong123.com
 0.0.0.0  f1.luoshenbest.cn
 0.0.0.0  f1.luoshenbest.com
@@ -38661,6 +38699,7 @@
 0.0.0.0  f3a2dc11dfb33.com
 0.0.0.0  f3fea4450e3b.xzccie.com
 0.0.0.0  f3rs4np1c5.site
+0.0.0.0  f4.market.xiaomi.com
 0.0.0.0  f4.mtqys.com
 0.0.0.0  f4.p0y.com
 0.0.0.0  f40f89d54b8.com
@@ -38684,6 +38723,7 @@
 0.0.0.0  f70123.com
 0.0.0.0  f71bxwn500lj.com
 0.0.0.0  f7ds.liberation.fr
+0.0.0.0  f8.market.xiaomi.com
 0.0.0.0  f8.mtqys.com
 0.0.0.0  f800e6f66d71.ngrok.io
 0.0.0.0  f8260adbf8558d6.com
@@ -39362,6 +39402,8 @@
 0.0.0.0  fe.feedbackrights.com
 0.0.0.0  fe.lea.lycos.co.uk
 0.0.0.0  fe.lea.lycos.es
+0.0.0.0  fe02.lg.xiaomi.com
+0.0.0.0  fe05.lg.xiaomi.com
 0.0.0.0  fe1-au.imrworldwide.com
 0.0.0.0  fe1-fi.imrworldwide.com
 0.0.0.0  fe1-it.imrworldwide.com
@@ -40180,6 +40222,8 @@
 0.0.0.0  fkogs.com
 0.0.0.0  fkondate.com
 0.0.0.0  fkooaee.angelcities.com
+0.0.0.0  fkp.samsungcloudsolution.com
+0.0.0.0  fkp.samsungcloudsolution.net
 0.0.0.0  fkr7ce4c20lqkyr.lianides.com
 0.0.0.0  fkref.com
 0.0.0.0  fkrkkmxsqeb5bj9r.s3.amazonaws.com
@@ -41904,6 +41948,7 @@
 0.0.0.0  galiowen.com
 0.0.0.0  galkama.info
 0.0.0.0  gallery.adtima.vn
+0.0.0.0  gallery.cdn.pandora.xiaomi.com
 0.0.0.0  gallery.pandora.xiaomi.com
 0.0.0.0  gallery.yeah1media.vn
 0.0.0.0  gallery0.livejasmin.com
@@ -41944,6 +41989,7 @@
 0.0.0.0  game.html5.qq.com
 0.0.0.0  game.idoing3d.com
 0.0.0.0  game.ifeng.com
+0.0.0.0  game.internetat.tv
 0.0.0.0  game.kugou.com
 0.0.0.0  game.letvstore.com
 0.0.0.0  game.pps.tv
@@ -41955,6 +42001,7 @@
 0.0.0.0  game.weibo.cn
 0.0.0.0  game.weibo.com
 0.0.0.0  game.weibo.com.cn
+0.0.0.0  game.xiaomi.com
 0.0.0.0  game.youzu.com
 0.0.0.0  game0516.cdn8-traffic68-server10.top
 0.0.0.0  game3737.com
@@ -43374,6 +43421,7 @@
 0.0.0.0  global.msmtrakk03a.com
 0.0.0.0  global.msmtrakk06d.com
 0.0.0.0  global.px.quantserve.com
+0.0.0.0  global.search.xiaomi.net
 0.0.0.0  global.ymtrack.com
 0.0.0.0  global.ymtracking.com
 0.0.0.0  global.yyapi.net
@@ -45553,8 +45601,10 @@
 0.0.0.0  hd.pe.fr
 0.0.0.0  hd.videos.co.pl
 0.0.0.0  hd.vod.co.pl
+0.0.0.0  hd.xiaomi.com
 0.0.0.0  hd.ylddq.com
 0.0.0.0  hd.youzu.com
+0.0.0.0  hd02.lg.xiaomi.com
 0.0.0.0  hd100546b.com
 0.0.0.0  hd11315.com
 0.0.0.0  hd11328.com
@@ -45910,6 +45960,7 @@
 0.0.0.0  heyos.com
 0.0.0.0  heystaks.com
 0.0.0.0  heytapimg.com.akamaized.net
+0.0.0.0  heyue.xiaomi.com
 0.0.0.0  heyzap.com
 0.0.0.0  hezhenzi.com
 0.0.0.0  hezibo.com
@@ -46369,6 +46420,7 @@
 0.0.0.0  hk.as.criteo.com
 0.0.0.0  hk.as.criteo.net
 0.0.0.0  hk.jtsh123.com
+0.0.0.0  hk.mibi.xiaomi.com
 0.0.0.0  hk.napi.ucweb.com
 0.0.0.0  hk2.settings.data.microsoft.com.akadns.net
 0.0.0.0  hk2.wns.windows.com
@@ -46511,6 +46563,7 @@
 0.0.0.0  hm.l.qq.com
 0.0.0.0  hm.shuixyh.com
 0.0.0.0  hm.ubiej.com
+0.0.0.0  hm.xiaomi.com
 0.0.0.0  hm2.cnzz.com
 0.0.0.0  hm252.cn
 0.0.0.0  hm3.cnzz.com
@@ -47410,9 +47463,11 @@
 0.0.0.0  huodiyun.cn
 0.0.0.0  huodong.ios.shouji.360.cn
 0.0.0.0  huodong.mobilem.360.cn
+0.0.0.0  huodong.xiaomi.com
 0.0.0.0  huodonghezi.cn
 0.0.0.0  huomdgde.adocean.pl
 0.0.0.0  huomob.com
+0.0.0.0  huosai.xiaomi.com
 0.0.0.0  huosuniao.com
 0.0.0.0  huovernment.club
 0.0.0.0  huoyiad2.cn
@@ -47822,6 +47877,7 @@
 0.0.0.0  i.w55c.net
 0.0.0.0  i.wuhaolin.cn
 0.0.0.0  i.xdywlw.cn
+0.0.0.0  i.xiaomi.com
 0.0.0.0  i.yldbt.com
 0.0.0.0  i.za5.net
 0.0.0.0  i.zeroredirect.com
@@ -48478,6 +48534,7 @@
 0.0.0.0  ig.nukefans.net
 0.0.0.0  ig0nr8hhhb.com
 0.0.0.0  ig8al3mkou.com
+0.0.0.0  igame.xiaomi.com
 0.0.0.0  igame4free.com
 0.0.0.0  igameunion.com
 0.0.0.0  igaming.biz
@@ -48757,6 +48814,7 @@
 0.0.0.0  image.beike188.com
 0.0.0.0  image.box.xiaomi.com
 0.0.0.0  image.bypass.jp
+0.0.0.0  image.cdn.mvideo.xiaomi.com
 0.0.0.0  image.cecash.com
 0.0.0.0  image.click.livedoor.com
 0.0.0.0  image.d-064.com
@@ -48782,6 +48840,7 @@
 0.0.0.0  image.moengage.com
 0.0.0.0  image.moshimo.com
 0.0.0.0  image.p4p.sogou.com
+0.0.0.0  image.pandora.xiaomi.com
 0.0.0.0  image.ptmind.com
 0.0.0.0  image.qj175.com
 0.0.0.0  image.qndown.com
@@ -48959,6 +49018,7 @@
 0.0.0.0  imces.inmobi.com
 0.0.0.0  imcht.net
 0.0.0.0  imdns.hpplay.cn
+0.0.0.0  ime.api.xiaomi.com
 0.0.0.0  imediaaudiences.com
 0.0.0.0  imediarevenue.com
 0.0.0.0  imeds.ero-advertising.com
@@ -49264,6 +49324,7 @@
 0.0.0.0  imgg.dt07.net
 0.0.0.0  imgg.marketgid.com
 0.0.0.0  imgg.mgid.com
+0.0.0.0  imgg.traffic-media.co
 0.0.0.0  imggprx.mgid.com
 0.0.0.0  imghu.livejasmin.com
 0.0.0.0  imglinks.industrybrains.com
@@ -49580,6 +49641,7 @@
 0.0.0.0  in.mgwcn.com
 0.0.0.0  in.mxmrt.com
 0.0.0.0  in.ndtzx.com
+0.0.0.0  in.o2o.api.xiaomi.com
 0.0.0.0  in.paycounter.com
 0.0.0.0  in.pomhz.com
 0.0.0.0  in.qqhpg.com
@@ -49885,6 +49947,7 @@
 0.0.0.0  infoguardru.info
 0.0.0.0  infokrk.co.pl
 0.0.0.0  infolinia-kontakt-telefon.pl
+0.0.0.0  infolink.pavv.co.kr
 0.0.0.0  infolinks.com
 0.0.0.0  infolokalne24.pl
 0.0.0.0  infomart.ca.112.2o7.net
@@ -50753,6 +50816,7 @@
 0.0.0.0  iosads22.adcolony.com
 0.0.0.0  iosads24.adcolony.com
 0.0.0.0  iosalpha.onfluencer.net
+0.0.0.0  iosdl.game.xiaomi.com
 0.0.0.0  iosipa.b0.upaiyun.com
 0.0.0.0  ioslog.ssl2.duapps.com
 0.0.0.0  iost.co
@@ -55351,6 +55415,7 @@
 0.0.0.0  lbn.ru
 0.0.0.0  lbnwrunyfupe.com
 0.0.0.0  lbnyj2.bidder.owneriq.net
+0.0.0.0  lbs.pandora.xiaomi.com
 0.0.0.0  lbsjc.bidder.owneriq.net
 0.0.0.0  lbstatic-a.akamaihd.net
 0.0.0.0  lc-push.zhihu.com
@@ -55823,6 +55888,7 @@
 0.0.0.0  lfwlcvq.top
 0.0.0.0  lfztmoamieum.com
 0.0.0.0  lfzxcp.com
+0.0.0.0  lg-bgp.pandora.xiaomi.com
 0.0.0.0  lg.brandreachsys.com
 0.0.0.0  lg.logging.admicro.vn
 0.0.0.0  lg.lotus.vn
@@ -56765,6 +56831,8 @@
 0.0.0.0  lockerdome.com
 0.0.0.0  lockerdomecdn.com
 0.0.0.0  lockergnome.us.intellitxt.com
+0.0.0.0  lockersamsungs8.r.xoxknct.com
+0.0.0.0  lockersamsungs8.s.xoxknct.com
 0.0.0.0  lockgranted.com
 0.0.0.0  lockhosts.com
 0.0.0.0  lockingessay.com
@@ -56786,6 +56854,7 @@
 0.0.0.0  log-1.samsungacr.com
 0.0.0.0  log-2.samsungacr.com
 0.0.0.0  log-3.samsungacr.com
+0.0.0.0  log-4.adclerks.com
 0.0.0.0  log-ads.r7.com
 0.0.0.0  log-api.pangolin-sdk-toutiao.com
 0.0.0.0  log-collector.shopee.vn
@@ -56884,6 +56953,7 @@
 0.0.0.0  log.infonet.vn
 0.0.0.0  log.intellimize.co
 0.0.0.0  log.interest.mix.sina.com.cn
+0.0.0.0  log.internetat.tv
 0.0.0.0  log.invodo.com
 0.0.0.0  log.isnssdk.com
 0.0.0.0  log.kaayun.com
@@ -56935,6 +57005,7 @@
 0.0.0.0  log.outbrain.org
 0.0.0.0  log.outbrainimg.com
 0.0.0.0  log.p2p.hunantv.com
+0.0.0.0  log.pandora.xiaomi.com
 0.0.0.0  log.particlenews.com
 0.0.0.0  log.perfecttitspics.com
 0.0.0.0  log.pinterest.com
@@ -57182,6 +57253,7 @@
 0.0.0.0  login.digicert.com.
 0.0.0.0  login.dotomi.com
 0.0.0.0  login.dotomi.net
+0.0.0.0  login.game.xiaomi.com
 0.0.0.0  login.gammaplatform.com
 0.0.0.0  login.interpreters.biz
 0.0.0.0  login.linkpulse.com
@@ -60648,6 +60720,7 @@
 0.0.0.0  max-files.oupeng.com
 0.0.0.0  max-host.pl
 0.0.0.0  max-l.mediav.com
+0.0.0.0  max.ad.xiaomi.com
 0.0.0.0  max.adsame.com
 0.0.0.0  max.i12.de
 0.0.0.0  max.mediav.com
@@ -61595,6 +61668,7 @@
 0.0.0.0  meigeer.com.cn
 0.0.0.0  meihaoxiangwang.com
 0.0.0.0  meihua.adsame.com
+0.0.0.0  meihua.xiaomi.com
 0.0.0.0  meilides.com
 0.0.0.0  meiluziai.info
 0.0.0.0  meimeiha.com
@@ -62476,6 +62550,8 @@
 0.0.0.0  mibet.win
 0.0.0.0  mibet88.com
 0.0.0.0  mibet88.win
+0.0.0.0  mibi.api.xiaomi.com
+0.0.0.0  mibi.xiaomi.com
 0.0.0.0  mibmcbm.com
 0.0.0.0  mibook-10006092.cos.myqcloud.com
 0.0.0.0  mibsooks.net
@@ -62484,6 +62560,7 @@
 0.0.0.0  mic.ububyiw6655.xyz
 0.0.0.0  micakidaugust.com
 0.0.0.0  micalle.com.au
+0.0.0.0  micardapi.micloud.xiaomi.net
 0.0.0.0  micardiss.ql.st
 0.0.0.0  michaelphilip.com
 0.0.0.0  michalfigura.pl
@@ -62634,6 +62711,7 @@
 0.0.0.0  milenium.site
 0.0.0.0  mileporn.com
 0.0.0.0  milibao.com
+0.0.0.0  milink.pandora.xiaomi.com
 0.0.0.0  milioner.popunder.ru
 0.0.0.0  militanttra.at
 0.0.0.0  military.us.intellitxt.com
@@ -62861,6 +62939,8 @@
 0.0.0.0  mirrorsearch.speedbit.com
 0.0.0.0  mirtesen.ru
 0.0.0.0  mirtrailer.ru
+0.0.0.0  mis.migc.xiaomi.com
+0.0.0.0  mis.migc.xiaomi.comfile.m
 0.0.0.0  mis.nbcc.ac.th
 0.0.0.0  misawa-antenna.link
 0.0.0.0  misc.pandora.xiaomi.com
@@ -62913,6 +62993,7 @@
 0.0.0.0  mitsczechoesy.site
 0.0.0.0  mitsubishi.112.2o7.net
 0.0.0.0  mitsubishielectric.112.2o7.net
+0.0.0.0  mitunes.game.xiaomi.com
 0.0.0.0  miui.hftaili.com
 0.0.0.0  miutro.com
 0.0.0.0  miv.ububyiw6655.xyz
@@ -64053,6 +64134,7 @@
 0.0.0.0  mp.5.p2l.info
 0.0.0.0  mp.apmebf.com
 0.0.0.0  mp.cheering3d.com
+0.0.0.0  mp.huangye.miui.com
 0.0.0.0  mp.miaomiaojia.cc
 0.0.0.0  mp.nextmedia.com
 0.0.0.0  mp.sijiaopingtai.com
@@ -64589,6 +64671,7 @@
 0.0.0.0  music102.awardspace.com
 0.0.0.0  music611.com
 0.0.0.0  musiccounter.ru
+0.0.0.0  musicid.samsungcloudsolution.com
 0.0.0.0  musicmembersarea.com
 0.0.0.0  musicnote.info
 0.0.0.0  musicrebuild.com
@@ -67385,6 +67468,8 @@
 0.0.0.0  notice.game.xiaomi.com
 0.0.0.0  notice.iqiyi.com
 0.0.0.0  notice.uchome.manyou.com
+0.0.0.0  noticecdn.samsungcloudsolution.com
+0.0.0.0  noticefile.samsungcloudsolution.com
 0.0.0.0  noticetoday.site
 0.0.0.0  noticias.life
 0.0.0.0  noticias.silverhome.co
@@ -67663,6 +67748,7 @@
 0.0.0.0  ns1.webwise.net
 0.0.0.0  ns1.webwise.org
 0.0.0.0  ns1.windowsdefende.com
+0.0.0.0  ns11.whois.co.kr
 0.0.0.0  ns1p.net
 0.0.0.0  ns2.cnzz.com
 0.0.0.0  ns2.hitbox.com
@@ -68099,6 +68185,7 @@
 0.0.0.0  o.carmax.com
 0.0.0.0  o.cityads.com
 0.0.0.0  o.cmp.advertising.com
+0.0.0.0  o.data.mistat.xiaomi.com
 0.0.0.0  o.domob.cn
 0.0.0.0  o.fandango.com
 0.0.0.0  o.fanwanshangmao1.cn
@@ -70627,6 +70714,7 @@
 0.0.0.0  openapi-news.meizu.com
 0.0.0.0  openapi.cymera.com
 0.0.0.0  openapi.guanjia.qq.com
+0.0.0.0  openapi.samsung.com
 0.0.0.0  openbid.pubmatic.com
 0.0.0.0  openbook.net
 0.0.0.0  openbox.mobilem.360.cn
@@ -70942,6 +71030,7 @@
 0.0.0.0  order-secure.biz
 0.0.0.0  order-valium.polybuild.ru
 0.0.0.0  order.bizpeed.com
+0.0.0.0  order.music.xiaomi.com
 0.0.0.0  orderadipex.findmenow.info
 0.0.0.0  ordermc.com
 0.0.0.0  ordersildenafil.com
@@ -71167,6 +71256,7 @@
 0.0.0.0  otm-r.com
 0.0.0.0  otmolod.ru
 0.0.0.0  otmyoesv.com
+0.0.0.0  otn.samsungcloudcdn.com
 0.0.0.0  otnolabttmup.com
 0.0.0.0  otnolatrnup.com
 0.0.0.0  otobajka.com.pl
@@ -73325,6 +73415,7 @@
 0.0.0.0  phone-arena-d.openx.net
 0.0.0.0  phone-calling-card.exnet.su
 0.0.0.0  phonearena.us.intellitxt.com
+0.0.0.0  phonecallapi.micloud.xiaomi.net
 0.0.0.0  phonejapan.com
 0.0.0.0  phones4you.be
 0.0.0.0  phonesecure.mobi
@@ -74564,6 +74655,7 @@
 0.0.0.0  pm.web.com
 0.0.0.0  pm0.net
 0.0.0.0  pm14.com
+0.0.0.0  pmall.migc.xiaomi.com
 0.0.0.0  pmanager.pl
 0.0.0.0  pmb.akprind.ac.id
 0.0.0.0  pmbox.biz
@@ -75804,6 +75896,7 @@
 0.0.0.0  premium-offers.space
 0.0.0.0  premium-reward-club.com
 0.0.0.0  premium-sex-contact2.com
+0.0.0.0  premium-videos.telly.com
 0.0.0.0  premium.ascensionweb.com
 0.0.0.0  premium.ihuh.pl
 0.0.0.0  premium.naturalnews.tv
@@ -76851,6 +76944,7 @@
 0.0.0.0  ptirgaux.com
 0.0.0.0  ptkhy.com
 0.0.0.0  ptmedia.com.pl
+0.0.0.0  ptmi.gitv.pandora.xiaomi.com
 0.0.0.0  ptmind.com
 0.0.0.0  ptmzr.com
 0.0.0.0  pto-slb-09.com
@@ -77841,6 +77935,7 @@
 0.0.0.0  qivsod.com
 0.0.0.0  qiximed.com
 0.0.0.0  qixour.com
+0.0.0.0  qiye.xiaomi.com
 0.0.0.0  qiye11.ejunshi.net
 0.0.0.0  qiyeb.iaskbus.com
 0.0.0.0  qiyeit.com.cn
@@ -78392,6 +78487,7 @@
 0.0.0.0  r.s0zcf.cn
 0.0.0.0  r.sax.sina.com.cn
 0.0.0.0  r.scoota.co
+0.0.0.0  r.sg.sec.miui.com
 0.0.0.0  r.skimresources.com
 0.0.0.0  r.teads.tv
 0.0.0.0  r.tinmoi24.vn
@@ -78716,7 +78812,6 @@
 0.0.0.0  ratilis.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
-0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratioboom.ru
@@ -81763,6 +81858,7 @@
 0.0.0.0  s.viites.com
 0.0.0.0  s.visilabs.com
 0.0.0.0  s.visilabs.net
+0.0.0.0  s.w-x.co
 0.0.0.0  s.wapadv.com
 0.0.0.0  s.webtrends.com
 0.0.0.0  s.worldofmacros.net
@@ -82060,6 +82156,7 @@
 0.0.0.0  s3-analytics-events.easybrain.com
 0.0.0.0  s3-ap-southeast-1-amazonaws.com
 0.0.0.0  s3-ap-southeast-2-amazonaws.com
+0.0.0.0  s3-config.samsungacr.com
 0.0.0.0  s3-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0  s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 0.0.0.0  s3-tracking.synthasite.net.s3.amazonaws.com
@@ -82572,15 +82669,23 @@
 0.0.0.0  samsclub.112.2o7.net
 0.0.0.0  samsclub33.pochta.ru
 0.0.0.0  samsung-akcja.e-kei.pl
+0.0.0.0  samsung-germany.demdex.net
 0.0.0.0  samsung-klimatyzacja.pl
 0.0.0.0  samsung-produkcja.24.eu
 0.0.0.0  samsung-stop.24.eu
 0.0.0.0  samsung.24.eu
 0.0.0.0  samsung.apps.linkpc.net
+0.0.0.0  samsung.demdex.net
+0.0.0.0  samsung.yaload.ru
 0.0.0.0  samsung3.solution.weborama.fr
 0.0.0.0  samsungacr.com
+0.0.0.0  samsungadhub.com
 0.0.0.0  samsungads.com
+0.0.0.0  samsungeurope.eu.qualtrics.com
+0.0.0.0  samsungindiaelectronics.demdex.net
+0.0.0.0  samsungmsc.d1.sc.omtrdc.net
 0.0.0.0  samsungtvads.com
+0.0.0.0  samsungus.btttag.com
 0.0.0.0  samtrg.com
 0.0.0.0  samuraibangalore.com
 0.0.0.0  samvaulter.com
@@ -83620,6 +83725,7 @@
 0.0.0.0  seclctpsih.com
 0.0.0.0  seclick.ru
 0.0.0.0  secmomo.com
+0.0.0.0  secode2.hd.xiaomi.com
 0.0.0.0  secondchancecoaching.com
 0.0.0.0  secondscreenindexer.adswizz.com
 0.0.0.0  secondstreetmedia.com
@@ -84730,6 +84836,7 @@
 0.0.0.0  sfo4.ipromote.com
 0.0.0.0  sfokenghj.com
 0.0.0.0  sfp-adserver-cdn.sharethrough.com
+0.0.0.0  sfsapi.micloud.xiaomi.net
 0.0.0.0  sfsudsf.pro
 0.0.0.0  sftapi.com
 0.0.0.0  sftpgyqdrexl.com
@@ -85099,6 +85206,7 @@
 0.0.0.0  shockingswing.com
 0.0.0.0  shodroph.net
 0.0.0.0  shoelace.com
+0.0.0.0  shoes.app-xae.xiaomi.com
 0.0.0.0  shoestyle.pl
 0.0.0.0  shoesvclub.com
 0.0.0.0  shoeswars.com
@@ -88672,6 +88780,7 @@
 0.0.0.0  sso.admicro.vn
 0.0.0.0  sso.canada.com
 0.0.0.0  sso.cloud.idecloud.com.pl
+0.0.0.0  sso.internetat.tv
 0.0.0.0  ssorsophicla.info
 0.0.0.0  ssp-api.domob.cn
 0.0.0.0  ssp-api.mobadvent.com
@@ -88866,6 +88975,7 @@
 0.0.0.0  sstats.www.o2.cz
 0.0.0.0  sstats2.gq.com
 0.0.0.0  sstatsbp.nikkei.com
+0.0.0.0  sstc.ngrok.xiaomiqiu.cn
 0.0.0.0  sstc360.com
 0.0.0.0  ssucvdbxxlibn.com
 0.0.0.0  ssum-sec.casalemedia.com
@@ -89004,6 +89114,7 @@
 0.0.0.0  staging-insights-collector.newrelic.com
 0.0.0.0  staging-tlx.3lift.com
 0.0.0.0  staging-us-east-tlx.3lift.com
+0.0.0.0  staging.ai.api.xiaomi.com
 0.0.0.0  staging.apparelpunch.com
 0.0.0.0  staging.fuseplatform.net
 0.0.0.0  staging.j.eclick.vn
@@ -89512,6 +89623,7 @@
 0.0.0.0  static.g.iqiyi.com
 0.0.0.0  static.g.ppstream.com
 0.0.0.0  static.g.pptv.com
+0.0.0.0  static.game.xiaomi.com
 0.0.0.0  static.gammaplatform.com
 0.0.0.0  static.getclicky.com
 0.0.0.0  static.gfx.streamate.com
@@ -89571,6 +89683,7 @@
 0.0.0.0  static.mediav.com
 0.0.0.0  static.mediaz.asia
 0.0.0.0  static.mepuzz.com
+0.0.0.0  static.mibi.xiaomi.com
 0.0.0.0  static.mobilemonkey.com
 0.0.0.0  static.mparticle.com
 0.0.0.0  static.mvot.vn
@@ -90153,6 +90266,7 @@
 0.0.0.0  stats.wwitv.com
 0.0.0.0  stats.www.ibm.com
 0.0.0.0  stats.x14.eu
+0.0.0.0  stats.xiaomi.com
 0.0.0.0  stats.xxxkey.com
 0.0.0.0  stats.xxxrewards.com
 0.0.0.0  stats.yinyuetai.com
@@ -90264,6 +90378,7 @@
 0.0.0.0  status.verifyingbycf.com
 0.0.0.0  status.xn.pl
 0.0.0.0  status24.5p.pl
+0.0.0.0  statusapi.micloud.xiaomi.net
 0.0.0.0  statustoken.im
 0.0.0.0  statutecompatibility.com
 0.0.0.0  statutorjuihui.site
@@ -91653,6 +91768,7 @@
 0.0.0.0  synchrobox.ec2eu.adswizz.com
 0.0.0.0  synchroscript.deliveryengine.adswizz.com
 0.0.0.0  synconnector.com
+0.0.0.0  syncplusconfig.s3.amazonaws.com
 0.0.0.0  syncwowsails.com
 0.0.0.0  syndapop.com
 0.0.0.0  syndicate.payloadz.com
@@ -91943,6 +92059,7 @@
 0.0.0.0  t.effectivemeasure.net
 0.0.0.0  t.eharmony.com
 0.0.0.0  t.eloqua.com
+0.0.0.0  t.email1.samsung.ca
 0.0.0.0  t.etraveli.com
 0.0.0.0  t.extreme-dm.com
 0.0.0.0  t.fatcatstar.com
@@ -92073,6 +92190,7 @@
 0.0.0.0  t.teads.tv
 0.0.0.0  t.teads.tv.edgekey.net
 0.0.0.0  t.tpctrust.com
+0.0.0.0  t.track.ad.xiaomi.com
 0.0.0.0  t.trackedlink.net
 0.0.0.0  t.trackingxnads.com
 0.0.0.0  t.trafmag.com
@@ -92129,6 +92247,7 @@
 0.0.0.0  t1.cdn.xiangha.com
 0.0.0.0  t1.clipkit.com
 0.0.0.0  t1.extreme-dm.com
+0.0.0.0  t1.g.mi.com
 0.0.0.0  t1.jzkapp.com
 0.0.0.0  t1.mobrand.net
 0.0.0.0  t1.trackalyzer.com
@@ -92662,6 +92781,7 @@
 0.0.0.0  targetan.com
 0.0.0.0  targetctracker.com
 0.0.0.0  targetdfp320149284940.s.moatpixel.com
+0.0.0.0  targeted-config-test.samsungacr.com
 0.0.0.0  targetedmedia.com.cn
 0.0.0.0  targeterra.info
 0.0.0.0  targetfuel.com
@@ -92772,6 +92892,7 @@
 0.0.0.0  tc.51la.net
 0.0.0.0  tc.airfrance.com
 0.0.0.0  tc.ci123.com
+0.0.0.0  tc.hd.xiaomi.com
 0.0.0.0  tc.hometogo.net
 0.0.0.0  tc.snpsresidential.com
 0.0.0.0  tc.tradetracker.net
@@ -93168,6 +93289,7 @@
 0.0.0.0  tekindustri.upnjatim.ac.id
 0.0.0.0  teknogirls.cf
 0.0.0.0  tel-tel-fie.com
+0.0.0.0  tel.fe01.hh.xiaomi.com
 0.0.0.0  tel.geenstijl.nl
 0.0.0.0  tel3adv.112.2o7.net
 0.0.0.0  telaria.adhaven.com
@@ -93408,6 +93530,7 @@
 0.0.0.0  test.ishvara-yoga.com
 0.0.0.0  test.letraele.es
 0.0.0.0  test.livejasmin.com
+0.0.0.0  test.log.ad.xiaomi.com
 0.0.0.0  test.maciejdudek.com.pl
 0.0.0.0  test.minr.pw
 0.0.0.0  test.new.api.ad.xiaomi.com
@@ -93415,9 +93538,11 @@
 0.0.0.0  test.p.12cpm.com
 0.0.0.0  test.protectiamuncii-ssm-psi.ro
 0.0.0.0  test.quantcast.mgr.consensu.org
+0.0.0.0  test.samsungrm.net
 0.0.0.0  test.surepush.cn
 0.0.0.0  test.typoten.com
 0.0.0.0  test.wanepghana.org
+0.0.0.0  test.xiaomi.com
 0.0.0.0  test.zeus.ad.xiaomi.com
 0.0.0.0  test1.asistencia247.com
 0.0.0.0  test1.milenial.id
@@ -96240,6 +96365,7 @@
 0.0.0.0  tracking.ilinkmd.com
 0.0.0.0  tracking.imagewebdesign.fr
 0.0.0.0  tracking.immobilienscout24.de
+0.0.0.0  tracking.india.miui.com
 0.0.0.0  tracking.info.ivanti.com
 0.0.0.0  tracking.info.servicenow.com
 0.0.0.0  tracking.insperity.com
@@ -96966,6 +97092,7 @@
 0.0.0.0  trhunt.com
 0.0.0.0  triadmedianetwork.com
 0.0.0.0  trial.alcohol-soft.com
+0.0.0.0  trial.api.huangye.miui.com
 0.0.0.0  trialpay.com
 0.0.0.0  trialreg.com
 0.0.0.0  triangle.dealsaver.com
@@ -97596,6 +97723,7 @@
 0.0.0.0  tv-maniak.pl
 0.0.0.0  tv-now.us.intellitxt.com
 0.0.0.0  tv-rightcelebrity.us.intellitxt.com
+0.0.0.0  tv.app.migc.xiaomi.com
 0.0.0.0  tv.code.jjyx.com
 0.0.0.0  tv.gorzow.pl
 0.0.0.0  tv.livejasmin.com
@@ -99323,6 +99451,7 @@
 0.0.0.0  userflows.ingest.crittercism.com
 0.0.0.0  userfly.com
 0.0.0.0  userhenceforwardculture.com
+0.0.0.0  userid.xiaomi.com
 0.0.0.0  userimg.qunar.com
 0.0.0.0  userlook.com
 0.0.0.0  usermatch-ash-prod.krxd.net
@@ -100146,6 +100275,7 @@
 0.0.0.0  vcxz.pl
 0.0.0.0  vcyxvhxysl.com
 0.0.0.0  vd.7vid.net
+0.0.0.0  vd.emp.prd.s3.amazonaws.com
 0.0.0.0  vda.17173.com
 0.0.0.0  vda.oipzyrzffum.ovh
 0.0.0.0  vdains.info
@@ -100611,6 +100741,7 @@
 0.0.0.0  video.videonow.ru
 0.0.0.0  video.videos.vidto.me
 0.0.0.0  video.wap.mpush.qq.com
+0.0.0.0  video.xiaomi.com
 0.0.0.0  video.ymapp.com
 0.0.0.0  video.youzu.com
 0.0.0.0  video001.com
@@ -101304,6 +101435,7 @@
 0.0.0.0  voila.refr.adgtw.orangeads.fr
 0.0.0.0  voin.staysafe.pk
 0.0.0.0  voioaartgw.com
+0.0.0.0  voip.game.xiaomi.com
 0.0.0.0  voipnewswire.net
 0.0.0.0  vois.vodafone.com
 0.0.0.0  voken.eyereturn.com
@@ -102168,7 +102300,9 @@
 0.0.0.0  walletgear.org
 0.0.0.0  wallets-blockchain.com
 0.0.0.0  wallflore.de
+0.0.0.0  wallpaper.cdn.pandora.xiaomi.com
 0.0.0.0  wallpaper.juicyads.com
+0.0.0.0  wallpaper.pandora.xiaomi.com
 0.0.0.0  wallpaperdvd.juicyads.com
 0.0.0.0  wallpapergyd.j8inn1zektoe.com
 0.0.0.0  wallpaperjunctiondownload.j8inn1zektoe.com
@@ -102262,6 +102396,7 @@
 0.0.0.0  wap.bytdzsw.com
 0.0.0.0  wap.casee.cn
 0.0.0.0  wap.dh61677.com
+0.0.0.0  wap.game.xiaomi.com
 0.0.0.0  wap.j8inn1zektoe.com
 0.0.0.0  wap.ltypcz.cn
 0.0.0.0  wap.moad.cn
@@ -102374,6 +102509,9 @@
 0.0.0.0  watch.publicidadpro.com
 0.0.0.0  watch24.com
 0.0.0.0  watch9.com
+0.0.0.0  watchdog-samsung.goodbyeads
+0.0.0.0  watchdog.goodbyeads
+0.0.0.0  watchdog.goodbyeads.xiaomi
 0.0.0.0  watches-my.stream
 0.0.0.0  watchesbrow.com
 0.0.0.0  watchfree.flv.in
@@ -102601,6 +102739,7 @@
 0.0.0.0  weartexhibitions.com
 0.0.0.0  weather-analytics-events.apple.com
 0.0.0.0  weather.fixitpro.ro
+0.0.0.0  weather.pandora.xiaomi.com
 0.0.0.0  weatherbug.adsbynimbus.com
 0.0.0.0  weatherbugbrowserbar.mywebsearch.com
 0.0.0.0  weatherent.club
@@ -106195,6 +106334,7 @@
 0.0.0.0  www.akceptuj-regulamin.site
 0.0.0.0  www.akcja-glosowanko.eu
 0.0.0.0  www.akcja-marzenie.eu
+0.0.0.0  www.akcja-samsung.h2g.pl
 0.0.0.0  www.akcjasamsung.e-kei.pl
 0.0.0.0  www.akcjasgk.pl
 0.0.0.0  www.akiko.f9.co.uk
@@ -117687,6 +117827,8 @@
 0.0.0.0  www.samsung-produkcja.24.eu
 0.0.0.0  www.samsung-stop.24.eu
 0.0.0.0  www.samsung.24.eu
+0.0.0.0  www.samsungotn.net
+0.0.0.0  www.samsungrm.net
 0.0.0.0  www.samtaxitours.com
 0.0.0.0  www.samuraibangalore.com
 0.0.0.0  www.samxtrade.com
@@ -122286,6 +122428,7 @@
 0.0.0.0  xiazai.overturechina.com
 0.0.0.0  xiazai.pdfexpert.cc
 0.0.0.0  xiazai.photozoomchina.com
+0.0.0.0  xiazai.xiaomi.com
 0.0.0.0  xiazai.xmindchina.cn
 0.0.0.0  xiazai.xshellcn.com
 0.0.0.0  xiazai.yuanchengxiezuo.com
@@ -122373,6 +122516,7 @@
 0.0.0.0  xitao3.com
 0.0.0.0  xiti.com
 0.0.0.0  xitmagql.com
+0.0.0.0  xitong.xiaomi.com
 0.0.0.0  xitongku.cc
 0.0.0.0  xitvce.webtretho.com
 0.0.0.0  xiukeshop.com
@@ -123049,6 +123193,7 @@
 0.0.0.0  xseed-digital.jp
 0.0.0.0  xsell.6waves.com
 0.0.0.0  xsgpzbipelo.com
+0.0.0.0  xshare.api.xiaomi.com
 0.0.0.0  xshellcn.com
 0.0.0.0  xshop3.ru
 0.0.0.0  xsipbwtb.com
@@ -124547,6 +124692,7 @@
 0.0.0.0  yun-pdm5000.cn
 0.0.0.0  yun-static.soperson.com
 0.0.0.0  yun.lvehaisen.com
+0.0.0.0  yun.rili.cn
 0.0.0.0  yun.sifuhe.cn
 0.0.0.0  yun.tuia.cn
 0.0.0.0  yun.tuisnake.com
@@ -125421,6 +125567,7 @@
 0.0.0.0  zhushicm.com
 0.0.0.0  zhushou.2345.cn
 0.0.0.0  zhushou.2345.com
+0.0.0.0  zhuti.xiaomi.com
 0.0.0.0  zhuuv.maoyumao.net
 0.0.0.0  zhuwawa.net
 0.0.0.0  zhuyuanp.club
@@ -125620,6 +125767,9 @@
 0.0.0.0  zmutugjqvia.com
 0.0.0.0  zmyuer.com
 0.0.0.0  zmzfile.com
+0.0.0.0  zn3xeosihqjqivq8l-samsungeurope.siteintercept.qualtrics.com
+0.0.0.0  zn6lro0hnnzevxtpz-samsungeurope.siteintercept.qualtrics.com
+0.0.0.0  zn8a1gd8ckeekprrz-samsunggdc.siteintercept.qualtrics.com
 0.0.0.0  znajdz-numer.pl
 0.0.0.0  znajdz-paczke-24.xyz
 0.0.0.0  znajdziemy.icu
@@ -126007,6 +126157,8 @@
 0.0.0.0  zx.baosmx.com
 0.0.0.0  zx.da.mgtv.com
 0.0.0.0  zx.docin.com
+0.0.0.0  zx.game.xiaomi.com
+0.0.0.0  zx.game.xiaomi.comstat.xiaomi.com
 0.0.0.0  zx573.cn
 0.0.0.0  zxa4kxw2nvox.com
 0.0.0.0  zxavxgjcjmkh.com
