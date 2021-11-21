@@ -10,7 +10,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron:  "05 * * * *"
+    - cron:  "0 8 * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -34,6 +34,7 @@ jobs:
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
+        wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_dnsmasq.conf
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_smartdns.conf
         
     - name: Git Auto Commit
