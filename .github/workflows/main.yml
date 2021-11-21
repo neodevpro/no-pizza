@@ -30,13 +30,14 @@ jobs:
         rm host adblocker host_dnsmasq.conf lite_host lite_adblocker lite_host_dnsmasq.conf
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
-        wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host_dnsmasq.conf
+        wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasq.conf
+        wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
-        wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host_dnsmasq.conf
+        wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_smartdns.conf
         
     - name: Git Auto Commit
-      uses: stefanzweifel/git-auto-commit-action@v4.4.1
+      uses: stefanzweifel/git-auto-commit-action@v4.12.0
       with:
            commit_message: Auto Update
            branch: master
