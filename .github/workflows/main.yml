@@ -27,7 +27,7 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Update
       run: |
-        rm host adblocker host_dnsmasq.conf lite_host lite_adblocker lite_host_dnsmasq.conf
+        rm -f host adblocker dnsmasq.conf lite_host lite_adblocker lite_dnsmasq.conf smartdns.conf lite_smartdns.conf
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasq.conf
