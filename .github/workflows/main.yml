@@ -27,16 +27,17 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Update
       run: |
-        rm -f host adblocker dnsmasq.conf lite_host lite_adblocker lite_dnsmasq.conf smartdns.conf lite_smartdns.conf
+        rm -f host adblocker dnsmasq.conf lite_host lite_adblocker lite_dnsmasq.conf smartdns.conf lite_smartdns.conf domain lite_domain
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasq.conf
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/smartdns.conf
+        wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_dnsmasq.conf
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_smartdns.conf
-        
+        wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_domain
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.12.0
       with:
