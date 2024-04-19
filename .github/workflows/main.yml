@@ -34,7 +34,7 @@ jobs:
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_domain
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_clash
     - name: Git Auto Commit
-      uses: stefanzweifel/git-auto-commit-action@v5.0.1
+      uses: stefanzweifel/git-auto-commit-action@v4.16.0
       with:
            commit_message: Auto Update
            branch: master
