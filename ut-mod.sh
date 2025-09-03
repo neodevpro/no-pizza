@@ -2,8 +2,6 @@
 
 # Mount root as read-write and ensure critical paths are accessible
 sudo /bin/mount -o remount,rw /
-sudo mount -o remount,rw /userdata 2>/dev/null
-sudo mount -o remount,rw /android/data 2>/dev/null
 
 # Disable unnecessary services for better performance
 sudo systemctl stop systemd-timesyncd 2>/dev/null
@@ -74,3 +72,4 @@ sudo sed -i "/^PermitRootLogin/c\PermitRootLogin yes" $SSH_CONFIG
 sudo systemctl restart sshd
 
 echo "Service created, SSH configuration updated, optimizations applied, and services restarted."
+
