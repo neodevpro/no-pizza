@@ -38,7 +38,7 @@ sudo systemctl enable remount-rw.service
 SSH_CONFIG="/etc/ssh/sshd_config"
 
 # Find and replace or add configurations
-sudo sed -i "/^# Include \/etc\/ssh\/sshd_config.d\/\*.conf/c\Include /etc/ssh/sshd_config.d/*.conf" $SSH_CONFIG
+sudo sed -i '/^Include \/etc\/ssh\/sshd_config.d\/\*.conf/s/^/# /' /etc/ssh/sshd_config
 sudo sed -i "/^Port/c\Port 22" $SSH_CONFIG
 sudo sed -i "/^PasswordAuthentication/c\PasswordAuthentication yes" $SSH_CONFIG
 sudo sed -i "/^PermitEmptyPasswords/c\PermitEmptyPasswords yes" $SSH_CONFIG
