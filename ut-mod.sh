@@ -1,7 +1,13 @@
 #!/bin/bash
 
+# Mount root as read-write and ensure critical paths are accessible
 sudo /bin/mount -o remount,rw /
+sudo mount -o remount,rw /userdata 2>/dev/null
+sudo mount -o remount,rw /android/data 2>/dev/null
 
+# Disable unnecessary services for better performance
+sudo systemctl stop systemd-timesyncd 2>/dev/null
+sudo systemctl disable systemd-timesyncd 2>/dev/null
 
 # Check if ubuntu.img exists and is less than 6GB
 if [ ! -f /userdata/ubuntu.img ]; then
@@ -67,4 +73,4 @@ sudo sed -i "/^PermitRootLogin/c\PermitRootLogin yes" $SSH_CONFIG
 # Restart SSH service to apply changes
 sudo systemctl restart sshd
 
-echo "Service created, SSH configuration updated, and SSH service restarted."
+echo "Service created, SSH configuration updated, optimizations applied, and services restarted."
