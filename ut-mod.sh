@@ -2,6 +2,37 @@
 
 sudo /bin/mount -o remount,rw /
 
+
+# Check if ubuntu.img exists and is less than 6GB
+if [ ! -f /userdata/ubuntu.img ]; then
+    echo "Error: /userdata/ubuntu.img does not exist"
+    exit 1
+fi
+
+current_size=$(stat -f %z /userdata/ubuntu.img)
+if [ $current_size -ge 6442450944 ]; then  # 6GB in bytes
+    echo "Error: ubuntu.img is already 6GB or larger"
+    exit 1
+fi
+
+# Check available space in /userdata
+available_space=$(df /userdata | awk 'NR==2 {print $4}')  # Available space in KB
+needed_space=$((5242880))  # 5GB in KB
+
+if [ $available_space -lt $needed_space ]; then
+    echo "Error: Not enough space in /userdata. Need at least 5GB free."
+    exit 1
+fi
+
+echo "Resizing ubuntu.img to 5GB..."
+truncate -s 5G /userdata/ubuntu.img
+echo "Updating loop device..."
+losetup -c /dev/loop0
+echo "Resizing filesystem..."
+resize2fs /dev/loop0
+echo "Resize operations completed successfully."
+
+
 # Create the systemd service file
 cat <<EOL | sudo tee /etc/systemd/system/remount-rw.service
 [Unit]
