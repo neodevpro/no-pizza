@@ -72,4 +72,3 @@ sudo sed -i "/^PermitRootLogin/c\PermitRootLogin yes" $SSH_CONFIG
 sudo systemctl restart sshd
 
 echo "Service created, SSH configuration updated, optimizations applied, and services restarted."
-
