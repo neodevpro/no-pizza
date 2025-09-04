@@ -34,17 +34,6 @@ EOL
 # Enable the service to run at boot
 sudo systemctl enable remount-rw.service
 
-# Update SSH configuration
-SSH_CONFIG="/etc/ssh/sshd_config"
+sudo adduser --force-badname --system --no-create-home _apt
 
-# Find and replace or add configurations
-sudo sed -i '/^Include \/etc\/ssh\/sshd_config.d\/\*.conf/s/^/# /' /etc/ssh/sshd_config
-sudo sed -i "/^Port/c\Port 22" $SSH_CONFIG
-sudo sed -i "/^PasswordAuthentication/c\PasswordAuthentication yes" $SSH_CONFIG
-sudo sed -i "/^PermitEmptyPasswords/c\PermitEmptyPasswords yes" $SSH_CONFIG
-sudo sed -i "/^PermitRootLogin/c\PermitRootLogin yes" $SSH_CONFIG
-
-# Restart SSH service to apply changes
-sudo service ssh restart
-
-echo "Service created, SSH configuration updated, optimizations applied, and services restarted."
+echo "Service created, optimizations applied."
