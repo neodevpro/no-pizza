@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4.2.2
+    - uses: actions/checkout@v7.0.1
 
     # Runs a set of commands using the runners shell
     - name: Update
@@ -31,7 +31,7 @@ jobs:
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/singbox.srs
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
     - name: Git Auto Commit
-      uses: stefanzweifel/git-auto-commit-action@v5.1.0
+      uses: stefanzweifel/git-auto-commit-action@v7.2.1
       with:
            commit_message: Auto Update
            branch: master
