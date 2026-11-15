@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v7.0.1
 
-    # Runs a set of commands using the runners shell
+    # Runs a set of commands using the runners shell singbox* allow*
     - name: Update
       run: |
         rm -f host adblocker dnsmasq.conf smartdns.conf domain clash
