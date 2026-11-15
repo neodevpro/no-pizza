@@ -17,10 +17,10 @@ jobs:
     steps:
     - uses: actions/checkout@v7.0.1
 
-    # Runs a set of commands using the runners shell singbox* allow*
+    # Runs a set of commands using the runners shell domain clash singbox allow
     - name: Update
       run: |
-        rm -f host adblocker dnsmasq.conf smartdns.conf domain clash
+        rm -f host adblocker dnsmasq.conf smartdns.conf domain clash singbox* allow*
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasq.conf
