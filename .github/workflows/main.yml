@@ -7,6 +7,8 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
+  repository_dispatch:
+    types: [ vep1400-updated ]
   schedule:
     - cron:  "0 8 * * *"
   workflow_dispatch:
@@ -30,6 +32,21 @@ jobs:
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/singbox.json
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/singbox.srs
         wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
+    - name: Sync vep1400 installer
+      continue-on-error: true
+      run: |
+        set -euo pipefail
+        curl -fsSL --retry 3 -o /tmp/vep1400-main.tar.gz \
+          https://github.com/FusionPlmH/vep1400-linux-non_dsa-driver/archive/refs/heads/main.tar.gz
+        curl -fsSL --retry 3 -o get.sh \
+          https://raw.githubusercontent.com/FusionPlmH/vep1400-linux-non_dsa-driver/main/get.sh
+        rm -rf /tmp/vep1400 && mkdir -p /tmp/vep1400
+        tar -xzf /tmp/vep1400-main.tar.gz -C /tmp/vep1400
+        src=$(find /tmp/vep1400 -mindepth 1 -maxdepth 1 -type d)
+        mv "$src" /tmp/vep1400/vep1400-linux-non_dsa-driver
+        # deterministic tarball: same commit in, same bytes out, no daily churn
+        tar --sort=name --mtime=@0 --owner=0 --group=0 --numeric-owner \
+          -C /tmp/vep1400 -cf - vep1400-linux-non_dsa-driver | gzip -9n > vep1400-linux-non_dsa-driver.tar.gz
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v7.2.1
       with:
